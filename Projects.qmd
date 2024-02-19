@@ -1,0 +1,16 @@
+---
+title: "Projects"
+author: "Swapnaja Sunil Kulkarni"
+editor: visual
+---
+
+## Subjects (MS Data Analytics Engineering)
+
+
+```         
+Spring 2024 (On-going)
+
+- STAT-515: Applied Statistics and Visualization for Analytics 
+- AIT-580: Analytics: BigData to Information 
+- CS-504: Principles of Data Management and Mining
+```
