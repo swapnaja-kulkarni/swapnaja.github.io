@@ -11,14 +11,14 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! I am Swapnaja, a current student @ George Mason. In terms of courses,I am enrolled in STAT-515,CS-504,and AIT-580.After working for a few years as a Market Research Analyst, I was intrigued with the field of Decision Sciences and Analytics. My goal is to learn and get hands-on experience in Big Data to build a strong Data Science background. Through this course, I intend to learn data analysis using R, Python, and various visualization tools."
+    "text": "Hi! I am Swapnaja, a current student @ George Mason. In terms of courses,I am enrolled in STAT-515, CS-504, and AIT-580. After working for a few years as a Market Research Analyst, I was intrigued with the field of Decision Sciences and Analytics. Hence, I decided to take up Masters degree at GMU."
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Spring 2024 (On-going)\n\n- STAT-515: Applied Statistics and Visualization for Analytics \n- AIT-580: Analytics: BigData to Information \n- CS-504: Principles of Data Management and Mining"
+    "text": "[1] Rajesh J. Sharma, Swapnaja S. Kulkarni, Nikita S. Jadhav, Vaishnavi H Pisal. Assessment of Anti – fertility activity of Butea monosperma seed’s aqueous extract using Capra hircus in – vitro uterus system. International Journal of Research and Analytical Reviews, 7(1):633-636, 2020.\n[2] Gajendra R. Shahapure, Swapnaja S. Kulkarni and Smita M. Pore. Monthly variation of physico-chemical and microbiological characteristics of Sambhaji lake in Solapur, Maharashtra. Pelagia Research Library, Ad- vances in Applied Science Research, 5(2):149-152, 2014."
   },
   {
     "objectID": "Projects.html#subjects-ms-data-analytics-engineering",
@@ -32,13 +32,48 @@
     "href": "about.html#education",
     "title": "About Me",
     "section": "Education",
-    "text": "Education\nUniversity of Pune | Pune Masters in Biotechnology\nWalchand College of Biotechnology | Solapur Bachelors in Biotechnology"
+    "text": "Education\nUniversity of Pune | Masters in Biotechnology\nWalchand College of Biotechnology | Bachelors in Biotechnology"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "About Me",
     "section": "Experience",
-    "text": "Experience\nMarket Research Future | Market Reseach Analyst"
+    "text": "Experience\nMarket Research Future | Market Research Analyst"
+  },
+  {
+    "objectID": "Projects.html#publications",
+    "href": "Projects.html#publications",
+    "title": "Projects",
+    "section": "",
+    "text": "[1] Rajesh J. Sharma, Swapnaja S. Kulkarni, Nikita S. Jadhav, Vaishnavi H Pisal. Assessment of Anti – fertility activity of Butea monosperma seed’s aqueous extract using Capra hircus in – vitro uterus system. International Journal of Research and Analytical Reviews, 7(1):633-636, 2020.\n[2] Gajendra R. Shahapure, Swapnaja S. Kulkarni and Smita M. Pore. Monthly variation of physico-chemical and microbiological characteristics of Sambhaji lake in Solapur, Maharashtra. Pelagia Research Library, Ad- vances in Applied Science Research, 5(2):149-152, 2014."
+  },
+  {
+    "objectID": "Projects.html#symposiums",
+    "href": "Projects.html#symposiums",
+    "title": "Projects",
+    "section": "Symposiums",
+    "text": "Symposiums\n[1] ”Recombinant Products,” Exploring Microbial Biotechnology, Microbiologists Society India, Solapur, MH, January 2014.\n[2] ”Development of Novel Formulation from Syzygium cumini As Potent Hyperglycemic Agent,” Avishkaar, Solapur, MH, India, January 2015."
+  },
+  {
+    "objectID": "Projects.html#projects",
+    "href": "Projects.html#projects",
+    "title": "Projects",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "dummy1.html",
+    "href": "dummy1.html",
+    "title": "Subjects",
+    "section": "",
+    "text": "#MS Data Analytics Engineering\nSpring 2024 (On-going)\n\n- STAT-515: Applied Statistics and Visualization for Analytics \n- AIT-580: Analytics: BigData to Information \n- CS-504: Principles of Data Management and Mining"
+  },
+  {
+    "objectID": "dummy1.html#subjects-studied",
+    "href": "dummy1.html#subjects-studied",
+    "title": "Subjects",
+    "section": "",
+    "text": "#MS Data Analytics Engineering\nSpring 2024 (On-going)\n\n- STAT-515: Applied Statistics and Visualization for Analytics \n- AIT-580: Analytics: BigData to Information \n- CS-504: Principles of Data Management and Mining"
   }
 ]

@@ -4,13 +4,23 @@ author: "Swapnaja Sunil Kulkarni"
 editor: visual
 ---
 
-## Subjects (MS Data Analytics Engineering)
+## Publications
 
+[1] Rajesh J. Sharma, Swapnaja S. Kulkarni, Nikita S. Jadhav, Vaishnavi H Pisal. Assessment of Anti –
+fertility activity of Butea monosperma seed’s aqueous extract using Capra hircus in – vitro uterus system.
+International Journal of Research and Analytical Reviews, 7(1):633-636, 2020.
 
-```         
-Spring 2024 (On-going)
+[2] Gajendra R. Shahapure, Swapnaja S. Kulkarni and Smita M. Pore. Monthly variation of physico-chemical
+and microbiological characteristics of Sambhaji lake in Solapur, Maharashtra. Pelagia Research Library, Ad-
+vances in Applied Science Research, 5(2):149-152, 2014.
 
-- STAT-515: Applied Statistics and Visualization for Analytics 
-- AIT-580: Analytics: BigData to Information 
-- CS-504: Principles of Data Management and Mining
-```
+## Symposiums
+
+[1] ”Recombinant Products,” Exploring Microbial Biotechnology, Microbiologists Society India, Solapur, MH,
+January 2014.
+
+[2] ”Development of Novel Formulation from Syzygium cumini As Potent Hyperglycemic Agent,” Avishkaar,
+Solapur, MH, India, January 2015.
+
+## Projects
+

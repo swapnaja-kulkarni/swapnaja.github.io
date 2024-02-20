@@ -7,7 +7,6 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
       - about.qmd
       - Projects.qmd
       - dummy1.qmd
@@ -18,5 +17,3 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-
-
