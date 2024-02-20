@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "swapnaja.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! I am Swapnaja. Welcome to my website!\n#This is a Quarto website.To learn more about Quarto websites visit https://quarto.org/docs/websites.\nPlease Navigate to other pages to view more about Swapnaja"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! I am Swapnaja, a current student @ George Mason. In terms of courses,I am enrolled in STAT-515, CS-504, and AIT-580. After working for a few years as a Market Research Analyst, I was intrigued with the field of Decision Sciences and Analytics. Hence, I decided to take up Masters degree at GMU."
+    "text": "Hi! I am Swapnaja, a current student at George Mason University studying Master’s in DAE. Previously, I have worked in the fields of Market Research and Forecasting Analysis. With an aim to apply Decision Sciences and Analytics in real life, I have opted for the curriculum @ GMU."
   },
   {
     "objectID": "Projects.html",
@@ -60,14 +60,14 @@
     "href": "Projects.html#projects",
     "title": "Projects",
     "section": "Projects",
-    "text": "Projects"
+    "text": "Projects\n[1] Antifertility activity of Butea monosperma using goat uterus as model system 2015 – 2016\n• Evaluated the effect of 1% aqueous seed extract of Butea monosperma in Capra hircus uterus in-vitro model system\n• Concluded the anti-fertility activity of plant extract based on histology techniques and anti-fertility assay exhibiting reduced diameter of uterine glands, and altered morphology\n[2] Assessment & analysis of physical, chemical, microbiological characteristics of fresh water in Sambhaji Lake, Solapur, Maharashtra. 2013 – 2014\n• Performed water Sampling to analyze the biophysical changes and microbial contamination of Sambhaji lake, indicating decreased water quality and unhealthy for human consumption, and thus, developing a need to monitor the pollution parameters periodically"
   },
   {
     "objectID": "dummy1.html",
     "href": "dummy1.html",
     "title": "Subjects",
     "section": "",
-    "text": "#MS Data Analytics Engineering\nSpring 2024 (On-going)\n\n- STAT-515: Applied Statistics and Visualization for Analytics \n- AIT-580: Analytics: BigData to Information \n- CS-504: Principles of Data Management and Mining"
+    "text": "Spring 2024 (On-going)\n\n- STAT-515: Applied Statistics and Visualization for Analytics \n- AIT-580: Analytics: BigData to Information \n- CS-504: Principles of Data Management and Mining"
   },
   {
     "objectID": "dummy1.html#subjects-studied",
@@ -75,5 +75,26 @@
     "title": "Subjects",
     "section": "",
     "text": "#MS Data Analytics Engineering\nSpring 2024 (On-going)\n\n- STAT-515: Applied Statistics and Visualization for Analytics \n- AIT-580: Analytics: BigData to Information \n- CS-504: Principles of Data Management and Mining"
+  },
+  {
+    "objectID": "dummy1.html#ms-data-analytics-engineering",
+    "href": "dummy1.html#ms-data-analytics-engineering",
+    "title": "Subjects",
+    "section": "",
+    "text": "Spring 2024 (On-going)\n\n- STAT-515: Applied Statistics and Visualization for Analytics \n- AIT-580: Analytics: BigData to Information \n- CS-504: Principles of Data Management and Mining"
+  },
+  {
+    "objectID": "dummy1.html#msc-biotechnology",
+    "href": "dummy1.html#msc-biotechnology",
+    "title": "Subjects",
+    "section": "MSc BioTechnology",
+    "text": "MSc BioTechnology"
+  },
+  {
+    "objectID": "dummy1.html#bsc-biotechnology",
+    "href": "dummy1.html#bsc-biotechnology",
+    "title": "Subjects",
+    "section": "BSc BioTechnology",
+    "text": "BSc BioTechnology"
   }
 ]

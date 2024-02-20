@@ -2,10 +2,10 @@
 title: "swapnaja.github.io"
 ---
 
-This is a Quarto website.
+Hi! I am Swapnaja. Welcome to my website!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+#This is a Quarto website.To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
+```{}
+Please Navigate to other pages to view more about Swapnaja
 ```

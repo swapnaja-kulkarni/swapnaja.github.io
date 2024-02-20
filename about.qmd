@@ -13,8 +13,9 @@ about:
       href: https://github.com/swapnaja-kulkarni
 ---
 
-Hi! I am Swapnaja, a current student @ George Mason.
-In terms of courses,I am  enrolled in STAT-515, CS-504, and AIT-580. After working for a few years as a Market Research Analyst, I was intrigued with the field of Decision Sciences and Analytics. Hence, I decided to take up Masters degree at GMU. 
+Hi! I am Swapnaja, a current student at George Mason University studying Master's in DAE.
+Previously, I have worked in the fields of Market Research and Forecasting Analysis.
+With an aim to apply Decision Sciences and Analytics in real life, I have opted for the curriculum @ GMU.
 
 ## Education
 
