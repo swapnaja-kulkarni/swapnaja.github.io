@@ -1,0 +1,63 @@
+---
+title: "Swapnaja.github.io"
+filters:
+- shinylive
+---
+
+## Quarto
+
+R Shiny Code for Line Graph
+
+```{shinylive-r}
+#| standalone:true
+
+library(shiny)
+
+ui <- fluidPage(
+  
+  titlePanel("Diseases in the US 1928-2011"),
+  sidebarLayout(
+    sidebarPanel(
+      # inputs
+      selectizeInput("stateInput", "County",
+                     choices = unique(df_covidcases_movavg_update$county),  
+                     selected="Cobb", multiple =TRUE),
+      dateRangeInput("dates", label = h3("Date range"), start = as.Date('2020-04-26'), end = as.Date('2020-05-14'), min = as.Date('2020-04-26'), max = as.Date('2020-05-14')),
+      hr(),
+      fluidRow(column(4, verbatimTextOutput("value")))
+      ),
+    
+    mainPanel(
+      # outputs
+      plotOutput("diseaseplot")
+      
+    ) 
+  ) 
+),   
+
+server <- function(input, output) {
+  
+  d <- reactive({
+    filtered <-
+      df_covidcases_movavg_update %>%
+      dplyr::filter(county == input$stateInput,
+             Date >= input$dates[1],
+             Date <= input$dates[2]
+             )
+  })
+
+  output$diseaseplot <- renderPlot({
+    
+      ggplot(d(), aes(x=Date, y=moving_avg)) +
+      geom_line(aes(color=county)) +
+      scale_x_date(date_labels="%d%b\n%Y", breaks = unique(df_covidcases_movavg_update$Date)) +
+      labs(x = "Date",
+           y = "Average Cases",
+           title = "Top 5 Counties with Greatest Number of Confirmed Covid-19 Cases (Apr-May 2020)")+
+      theme(legend.position = "none")
+    
+  })
+}
+
+shinyApp(ui,server)
+```

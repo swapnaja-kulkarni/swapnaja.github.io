@@ -1,30 +1,9 @@
 ---
-title: "About Me"
-about:
-  template: solana
-  image: profile.jpg
-  
-  links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/swapnaja_sk
-    - icon: github
-      text: Github
-      href: https://github.com/swapnaja-kulkarni
+title: "About"
 ---
 
-Hi! I am Swapnaja, a current student at George Mason University studying Master's in DAE.
-Previously, I have worked in the fields of Market Research and Forecasting Analysis.
-With an aim to apply Decision Sciences and Analytics in real life, I have opted for the curriculum @ GMU.
+About this site
 
-## Education
-
-University of Pune | Masters in Biotechnology 
-
-Walchand College of Biotechnology | Bachelors in Biotechnology 
-
-## Experience
-
-Market Research Future | Market Research Analyst
-
-
+```{r}
+1 + 1
+```
